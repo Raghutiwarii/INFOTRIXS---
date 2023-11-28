@@ -1,0 +1,1 @@
+# program that manages employee data, salary calculations, and payroll processing. Implementation: Use Java to implement features such as employee data input, salary calculations based on predefined rules, and generating pay stubs or reports.
